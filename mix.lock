@@ -1,0 +1,3 @@
+%{
+  "exatomvm": {:git, "https://github.com/bettio/exatomvm.git", "cb17615900eb912fa649a9b4d9136993d191a765", []},
+}
